@@ -1,0 +1,92 @@
+body {
+    font-size: 40px;
+    text-align: center;
+}
+
+
+/* navbar */
+
+.navbar {
+    background-color: crimson;
+    font-size: 25px;
+}
+
+.nav-link {
+    padding: 5px;
+    margin: 5px;
+}
+
+.navbar-brand {
+    background-color: bisque;
+    padding: 10px;
+    color: black;
+}
+
+.navbar-nav {
+    border-color: black;
+}
+
+a:hover {
+    background-color: cornsilk;
+}
+
+
+/* corousel */
+
+#carouselExampleControls {
+    margin: 50px;
+}
+
+.d-block {
+    height: 500px;
+    width: 100%;
+}
+
+
+/* cards */
+
+#card {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(226, 45, 45, 0.1);
+    border: 1px solid rgb(192, 71, 71);
+}
+
+.card1 {
+    margin: 10px;
+    padding: 10px;
+}
+
+.card-img-top {
+    width: 100px;
+    height: 300px;
+    padding: 10px;
+}
+
+
+/*footer  */
+
+footer {
+    margin-top: 100px
+}
+
+
+/* vertical line after the corousel */
+
+.vl {
+    border-top: 6px solid brown;
+    height: 90px;
+}
+
+
+/* customer  button */
+
+.customer {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+#btn {
+    font-size: 35px;
+}
